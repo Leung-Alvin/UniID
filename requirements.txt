@@ -1,0 +1,8 @@
+nanoid
+pyopenssl
+secrets
+coincurve
+sha3
+Pillow
+pyjwt
+cryptography
