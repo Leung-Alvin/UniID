@@ -38,7 +38,7 @@ if __name__ == "__main__":
     print("Step 3: User has to verify their identity.")
     image = Image.open("SpongeBob27s_license.png")
     #Source:https://static.wikia.nocookie.net/spongebob/images/e/e4/SpongeBob%27s_driver%27s_license.png/revision/latest?cb=20220530065510 
-    #image.show()
+    image.show()
     input("")
     os.system('cls' if os.name == 'nt' else 'clear')
 
