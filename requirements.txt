@@ -1,8 +1,4 @@
-nanoid
-pyopenssl
-secrets
-coincurve
-sha3
-Pillow
-pyjwt
-cryptography
+eth_keys
+jwt
+pillow
+pysha3
